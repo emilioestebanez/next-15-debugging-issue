@@ -14,4 +14,4 @@ Repo created to reproduce issue on <https://github.com/vercel/next.js/issues/732
 
 ## Issue with Cache-Control headers for 404 pages
 
-This project also reproduces the issue on <https://github.com/vercel/next.js/issues/74865>
+This project also reproduces the issue on <https://github.com/vercel/next.js/issues/75096>
