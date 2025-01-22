@@ -11,7 +11,3 @@ If you try to set up a breakpoint in `src/app/page.tsx` you'll see that it only 
 This behavior happens since `next@15.0.3-canary.7`.
 
 Repo created to reproduce issue on <https://github.com/vercel/next.js/issues/73214>
-
-## Issue with Cache-Control headers for 404 pages
-
-This project also reproduces the issue on <https://github.com/vercel/next.js/issues/75096>
